@@ -23,4 +23,6 @@ public class WorkEntry {
     private LocalDate workDate;
 
     private String workTime;
+
+    private String username;
 }

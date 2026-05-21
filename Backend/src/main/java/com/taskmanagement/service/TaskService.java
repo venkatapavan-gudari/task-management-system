@@ -101,6 +101,7 @@ public class TaskService {
         entry.setUser(user);
         entry.setWorkDate(workDate);
         entry.setWorkTime(workTime);
+        entry.setUsername(user.getUsername());
         workEntryRepository.save(entry);
     }
 
