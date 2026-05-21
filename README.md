@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Simple task management system where:
+task management system where:
 
 * Admin creates tasks
 * Assigns tasks to multiple users
